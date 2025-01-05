@@ -1,3 +1,71 @@
-p {
-    color: brown;
+*{
+    /* padding: 0px;
+    margin: 0px; */
+    text-decoration: none;
+}
+#navbar{
+    background-color: #0f0000;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    top:0px;
+    padding-top: 16px;
+}
+#page1 {
+    margin-top: 70px;
+    background-image: url('https://images.pexels.com/photos/19872275/pexels-photo-19872275/free-photo-of-river-in-valley-in-winter.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+a {
+    color: #ffffff;
+}
+#logo {
+    font-size: 25px;
+    color: #f08804;
+    margin-left: 10px;
+  
+}
+#picture {
+    margin-left: 970px;
+  
+}
+.manali{
+    margin-left: 30px;
+   
+}
+pre {
+    font-family: 'Times New Roman';
+}
+#top {
+    color: rgb(235, 51, 51);
+}
+#heading {
+    text-align: center;
+}
+footer {
+    background-color: #0f0000;
+    color: #ffffff;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+}
+#div1 {
+    background-image: url('https://images.pexels.com/photos/19872275/pexels-photo-19872275/free-photo-of-river-in-valley-in-winter.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#div2 {
+    background-image: url("https://images.unsplash.com/photo-1685795361575-413e869d744b?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#div3 {
+    background-image: url("https://images.pexels.com/photos/17342992/pexels-photo-17342992/free-photo-of-mountains-covered-with-snow.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
