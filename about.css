@@ -25,9 +25,12 @@ a {
     margin-left: 10px;
   
 }
-#picture {
+#home {
     margin-left: 970px;
   
+}
+a:hover {
+    color: #f08804;
 }
 .manali{
     margin-left: 30px;
@@ -63,6 +66,14 @@ footer {
 }
 #div3 {
     background-image: url("https://images.pexels.com/photos/17342992/pexels-photo-17342992/free-photo-of-mountains-covered-with-snow.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#pictureDiv1 {
+    height: 500px;
+    padding-top: 80px;
+    background-image: url("https://images.pexels.com/photos/28310142/pexels-photo-28310142/free-photo-of-faiyum-oasis-desert.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
