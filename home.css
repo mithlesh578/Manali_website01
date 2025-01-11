@@ -105,3 +105,15 @@ tr,th {
     color: #000000;
 
 }
+#div6 {
+    height: 60px;
+    text-align: center;
+}
+footer {
+    background-color: #0f0000;
+    color: #ffffff;
+    height: 60px;
+    text-align: center;
+    padding-top: 20px;
+    margin-top: 60px;
+}
