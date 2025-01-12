@@ -1,6 +1,9 @@
 *{
     text-decoration: none;
 }
+body {
+    background-color: #0f0000;
+}
 #navbar{
     background-color: #0f0000;
     height: 60px;
@@ -26,7 +29,7 @@ a {
   
 }
 #home {
-    margin-left: 970px;
+    margin-left: 1000px;
   
 }
 a:hover {
@@ -69,6 +72,29 @@ footer {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+}
+#div4 {
+    height: 700px;
+    background-image: url('https://images.unsplash.com/photo-1549472579-e133f59d8b23?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.inline {
+    display: inline-block ;
+    margin-top: 360px;
+    
+    
+}
+#button {
+        font-size: 30px;
+        background-color: #f08804;
+
+}
+#about {
+    color: #000000;
+    font-size: 30px;
 }
 #pictureDiv1 {
     height: 500px;
